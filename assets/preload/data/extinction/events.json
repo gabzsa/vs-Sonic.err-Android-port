@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "Tails",
+		"player3": null,
+		"events": [
+			[
+				59648.4375,
+				[
+					[
+						"Change Scroll Speed",
+						"1.3",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 128,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Extinction"
+	}
+}
